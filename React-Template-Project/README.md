@@ -83,6 +83,6 @@ ESlint
 ```
 Yes
 ```
-## Now your application is up and running and any changes done by you will be reflected instantly on the app. To access your application click on the link in the terminal (ctrl/command + right-click).
+### This will start your DEV server locally on port like "3000" or in this case the default port for vite development is port "5173". Now your application is up and running and any changes done by you will be reflected instantly on the app. To access your application click on the link in the terminal (ctrl/command + right-click).
 
 
