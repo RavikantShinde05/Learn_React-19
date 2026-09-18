@@ -57,10 +57,6 @@ don't get confuse just take it as a tool which makes react development experienc
 
 react is able to build your apps, websites or User Interfaces. But all the rendering strategies are essential for later part of the websites, apps or UI's to make them performance optimize and also considered only if it is necessary or meaningful providing benefits.
 
-### now go to the directory and put command in terminal:
-```
-npm create vite@latest
-```
 ### Then it will ask about Project name:
 Put like:
 ```
