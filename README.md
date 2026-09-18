@@ -1,7 +1,7 @@
-# Learn_React.js_2026-jan
-This repo is for learning the React.js
+# Learn_React 19:
+This repository is for learning the React.js
 
-# Learning React 🚀
+# Vision:
 
 Welcome to the **Learning React** repository!  
 This repository is created for **beginners** who want to learn **React.js** step by step in a simple, clear, and practical way.
@@ -10,14 +10,14 @@ It focuses on building a strong foundation by explaining core concepts with easy
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This project helps beginners understand React from scratch.  
 It covers fundamental concepts and follows clean coding practices so learners can easily read, understand, and modify the code.
 
 ---
 
-## 📘 What You Will Learn
+## What You Will Learn:
 
 By using this repository, you will learn:
 
