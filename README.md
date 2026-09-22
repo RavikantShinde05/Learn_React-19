@@ -1,7 +1,7 @@
 # Learn_React 19:
-This repository is for learning the React.js
 
-# Vision:
+
+## Vision:
 
 Welcome to the **Learning React** repository!  
 This repository is created for **beginners** who want to learn **React.js** step by step in a simple, clear, and practical way.
@@ -76,30 +76,4 @@ npm install
 npm start
 ```
 The application will run on:
-👉 http://localhost:3000
-
-
-## 📂 Project Structure
-
-learning-react/
-    public/          # Public files like index.html, images, etc.
-    src/             # Source code
-        components/  # Reusable React components
-        pages/       # Page-level components
-        styles/      # CSS or styling files
-        App.js       # Main application component
-        index.js     # Application entry point
-    package.json     # Project dependencies and scripts
-    README.md        # Project documentation (this file)
-
-
-
-⭐ Support
-
-If this repository helps you learn React:
-
-Give it a ⭐ on GitHub
-
-Share it with other beginners
-
-Happy Learning! 🎉
+👉 http://localhost:port
